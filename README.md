@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Frameworks and try to develop thyself.**
 - 👯  I’m **hunting Bugs and Professional Penetration Tester.**
 - 🤔 I’m also mentoring **Free on Cyber Security.**
-- 💬I’m also mentoring **Free on Cyber Security.**
-- 📫 How to reach me [Email](muktarul.pro@gmail.com)
+- 💬Ask me about **Cyber Security**
+- 📫 How to reach me **Email muktarul.pro@gmail.com**
 - More **It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.**
 
 <h3 align="left">Connect with me:</h3>
