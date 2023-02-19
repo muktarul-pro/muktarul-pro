@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muktarul Khan Akash</h1>
-<h3 align="center">Cyber Security Researcher । Bug Hunter । Member of Team - Bengal Black Diamond 'Gray Hat Hacker's Community</h3>
-**muktarul-pro/muktarul-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3 align="center">Cyber Security Researcher । Bug Hunter</h3>
 
 - 🔭 I’m currently working on **Cyber Security**
 - 🌱 I’m currently learning **Frameworks and try to develop thyself.**
